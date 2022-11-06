@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reviewz</string>
+    <string name="appname">ReViewz</string>
+    <string name="greetings">Welcome Fellow Cinephile!</string>
+    <string name="greetings2">Enter your details to get started</string>
+    <string name="register">REGISTER</string>
+    <string name="greetings3">Welcome to ReViewz!</string>
+    <string name="greetings4">What did you watch today?</string>
+    <string name="genre">Genre</string>
+    <string name="language">Language</string>
+    <string name="title_of_the_movie">Title of the Movie</string>
+    <string name="your_rating">Your rating</string>
+    <string name="your_review">Your review</string>
+    <string name="post_review">POST REVIEW</string>
+    <string name="didnt_watch_anything">Didn\'t watch anything?</string>
+    <string name="read_reviews">READ REVIEWS</string>
+    <string name="search">SEARCH</string>
+</resources>
